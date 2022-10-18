@@ -1,5 +1,5 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\2107175\\git\\springboot-microservice-project\\.git;
-GitRepositoriesView.GitDirectories.relative=C\:\\Users\\2107175\\git\\springboot-microservice-project\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\2107175\\spring-microservices-project\\.git;C\:\\Users\\2107175\\git\\springboot-microservice-project\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;C\:\\Users\\2107175\\git\\springboot-microservice-project\\.git;
 RepositoryGroups.uuids=
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
